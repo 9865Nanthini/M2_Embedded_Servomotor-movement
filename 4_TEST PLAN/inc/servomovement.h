@@ -1,9 +1,9 @@
 #ifndef __SERVOMOVEMENT_H_
 #define __SERVOMOVEMENT_H_
 /**
- * @file blinky.h
- * @author Bharath.G ()
- * @brief Project to Blink an LED connected to AVR328 MCU GPIO Pin
+ * @file servomovement.h
+ * @author Nanthini ()
+ * @brief Project to servomovemnt connected to oscope MCU GPIO Pin
  * @version 0.1
  * @date 2021-04-21
  * 
