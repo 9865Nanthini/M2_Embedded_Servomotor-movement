@@ -1,0 +1,8 @@
+
+Circuit: oscope_mega328 simulation.simu
+
+Bill of Materials:
+
+Servo-1 : Servo   
+Servo-2 : Servo   
+atmega328-4 : atmega328   
